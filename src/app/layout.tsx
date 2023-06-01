@@ -5,8 +5,8 @@ import Link from 'next/link';
 const inter = Noto_Serif({ weight: "400", subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Home | Eduardo Yutaka Nakanishi',
-  description: 'Website pessoal',
+  title: 'Aulas particulares de programação | Eduardo Yutaka Nakanishi',
+  description: 'Marque uma aula experimental grátis',
 }
 
 export default function RootLayout({
